@@ -1,6 +1,6 @@
-서강대학교 CSE4070 운영체제
+**서강대학교 CSE4070 운영체제**
 
-pintos project
+**pintos project**
 
 project 1 => all pass
 
